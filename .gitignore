@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Local development
+*.env
+*.dev
+.DS_Store
